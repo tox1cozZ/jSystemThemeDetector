@@ -16,7 +16,7 @@ It can be useful for example if you want to synchronize your GUI App's look and 
 It works on **Windows 10**, **MacOS Mojave** (or later) and even on **some Linux distributions**.
 
 # Requirements
-**Java 11 or higher**
+**Java 8 or higher**
 
 # Basic examples
 
