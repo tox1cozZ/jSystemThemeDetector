@@ -16,7 +16,7 @@ It can be useful for example if you want to synchronize your GUI App's look and 
 It works on **Windows 10**, **MacOS Mojave** (or later) and even on **some Linux distributions**.
 
 # Requirements
-**Java 11 or higher**
+**Java 8 or higher**
 
 # Basic examples
 
@@ -76,7 +76,7 @@ detector.registerListener(isDark -> {
 ```
 
 # Using it with Gradle, Maven... etc
-It's available on [JitPack](https://jitpack.io/#Dansoftowner/jSystemThemeDetector)!
+It's available on [JitPack](https://jitpack.io/#tox1cozZ/jSystemThemeDetector)!
 
 Gradle example:
 ```groovy
@@ -86,7 +86,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Dansoftowner:jSystemThemeDetector:3.6'
+    implementation 'com.github.tox1cozZ:jSystemThemeDetector:master-SNAPSHOT'
 }
 ```
 
