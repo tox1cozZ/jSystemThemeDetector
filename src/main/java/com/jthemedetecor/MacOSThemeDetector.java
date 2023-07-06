@@ -119,4 +119,3 @@ class MacOSThemeDetector extends OsThemeDetector {
         }
     }
 }
-
